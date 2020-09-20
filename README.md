@@ -1,26 +1,29 @@
-# rpi_motion
+# Raspberry pi motion detector with SMS alerts.
 Raspberry pi 4 + Pir IR motion sensor + twilio.  
 
-This script utilizies a raspberry pi 4 and a PIR IR (HC-SR501) motion sensonr.
-Once motion is detected, twilio will send an sms to the target number letting the user
-know that motion was detected.  Twilio account required (free account works fine) as well as 
-a target sms (your twilio verified number).
+This script utilizes a raspberry pi 4 and a PIR IR (HC-SR501) motion sensor.
+Once motion is detected, Twilio will send an SMS messgae to the target number letting the user
+know that motion was detected.  A Twilio account is required (free account works fine) as well as 
+a target number (your twilio verified number).
 
-The python script fetches environment variables, so you will need to export those variables in your .profile etc.
-If you don't plan on publishing anything you can simplu hard code in those variables.
-
-The pinout from the RPI to the perpherals are as follows:
-PIR sensor-----GPIO 6
-red LED--------GPIO 17
-yellow LED-----GPIO 27
-green LED -----GPIO 22
-
+The Python script fetches hidden environment variables, so you will need to export those variables in your .profile etc.
+If you don't plan on publishing anything simply hard coding in those variables is fine.
 
 
 # Pinout<br/>
-   ![desc](https://github.com/crisischris/rpi_motion/blob/master/pinout/pinout1.png)<br/>
+The pinout from the Pi to the perpherals are as follows:<br/>
+PIR sensor-----GPIO 6<br/>
+red LED--------GPIO 17<br/>
+yellow LED-----GPIO 27<br/>
+green LED -----GPIO 22<br/>
 
 # Pinout<br/>
-   ![desc](https://github.com/crisischris/rpi_motion/blob/master/pinout/pinout2.png)<br/>
+   ![desc](https://github.com/crisischris/rpi_motion/blob/master/IMGs/pinout1.png)<br/>
+
+# Pinout<br/>
+   ![desc](https://github.com/crisischris/rpi_motion/blob/master/IMGs/pinout2.png)<br/>
+
+# Pinout<br/>
+   ![desc](https://github.com/crisischris/rpi_motion/blob/master/IMGs/message.jpeg)<br/>
 
 
