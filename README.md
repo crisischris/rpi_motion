@@ -24,6 +24,7 @@ pinout<br/>
    ![desc](https://github.com/crisischris/rpi_motion/blob/master/IMGs/pinout2.png)<br/>
 
 message<br/>
-   ![desc](https://github.com/crisischris/rpi_motion/blob/master/IMGs/message.jpeg){:height="400" width="100px"}<br/>
+<img src="https://github.com/crisischris/rpi_motion/blob/master/IMGs/message.jpeg" width="400" height="100">
+
 
 
