@@ -16,12 +16,11 @@ yellow LED-----GPIO 27
 green LED -----GPIO 22
 
 
-#Pinout
 
-pinout1 - original image<br/>
-  6 ![desc](https://github.com/crisischris/rpi_motion/blob/master/pinout/pinout1.png)<br/>
+# Pinout<br/>
+   ![desc](https://github.com/crisischris/rpi_motion/blob/master/pinout/pinout1.png)<br/>
 
-pinout1 - original image<br/>
-  6 ![desc](https://github.com/crisischris/rpi_motion/blob/master/pinout/pinout2.png)<br/>
+# Pinout<br/>
+   ![desc](https://github.com/crisischris/rpi_motion/blob/master/pinout/pinout2.png)<br/>
 
 
