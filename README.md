@@ -2,11 +2,11 @@
 Raspberry pi 4 + Pir IR motion sensor + twilio.  
 
 This script utilizes a raspberry pi 4 and a PIR IR (HC-SR501) motion sensor.
-Once motion is detected, Twilio will send an SMS messgae to the target number letting the user
+Once motion is detected, Twilio will send an SMS message to the target number letting the user
 know that motion was detected.  A Twilio account is required (free account works fine) as well as 
 a target number (your twilio verified number).
 
-The Python script fetches hidden environment variables, so you will need to export those variables in your .profile etc.
+The Python script fetches secret environment variables from the .profile file.
 If you don't plan on publishing anything simply hard coding in those variables is fine.
 
 
