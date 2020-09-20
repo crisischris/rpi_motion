@@ -17,13 +17,13 @@ red LED--------GPIO 17<br/>
 yellow LED-----GPIO 27<br/>
 green LED -----GPIO 22<br/>
 
-<br/>
+pinout<br/>
    ![desc](https://github.com/crisischris/rpi_motion/blob/master/IMGs/pinout1.png)<br/>
 
-<br/>
+pinout<br/>
    ![desc](https://github.com/crisischris/rpi_motion/blob/master/IMGs/pinout2.png)<br/>
 
-<br/>
+message<br/>
    ![desc](https://github.com/crisischris/rpi_motion/blob/master/IMGs/message.jpeg 400x100)<br/>
 
 
